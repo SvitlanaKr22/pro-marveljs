@@ -10,10 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --mode development"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SvitlanaKr22/pro-marveljs"
-  },
   "author": "Svitlana Kravets <svitlana.kravets23@gmail.com>",
   "license": "ISC",
   "devDependencies": {
