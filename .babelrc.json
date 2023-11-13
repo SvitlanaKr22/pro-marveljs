@@ -1,0 +1,17 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+
+//presets: ['@babel/preset-env']
+
+// 2 variant
+// {
+//   "presets": ["@babel/preset-env"],
+//   "plugins": ["@babel/plugin-proposal-class-properties"]
+// }
+
+//из док babel
+// {
+//   "presets": [...],
+//   "plugins": [...]
+// }
